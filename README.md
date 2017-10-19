@@ -1,2 +1,4 @@
 # hello-world
-This is a test repository for training purposes
+Hi,
+This is Sid. I love cofee and playing sports. I was born in India.
+I work at YipitData.
